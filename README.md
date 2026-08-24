@@ -4,10 +4,10 @@
 
 <div align="center">
 
-   <img src="assets/HTML.svg" width="100px" height="100px">
+   <img src="assets/HTML.svg" width="40px" height="40px">
 
-   <img src="assets/CSS.svg" width="100px" height="100px">
+   <img src="assets/CSS.svg" width="40px" height="40px">
 
-   <img src="assets/JavaScript.svg" width="100px" height="100px">
+   <img src="assets/JavaScript.svg" width="40px" height="40px">
 
 </div>
